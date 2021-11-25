@@ -1,4 +1,4 @@
-# Website for a SWEDISH RESTAURENTin Stockholm (Live and Active)
+# Website for a SWEDISH RESTAURENT in Stockholm (Live and Active)
 This is a real website for a SWEDISH RESTAURENT. 
 This was my first project using Wordpress. 
 Owner of the restaurent wanted to do it in Wordpress- and that is why I used wordpress. 
