@@ -1,2 +1,7 @@
-# real-website-for-a-SWEDISH-RESTAURENT-
-This is a real website for a SWEDISH RESTAURENT. This was my first project using Wordpress. Ower of the restaurent wanted to do it in Wordpress- and that is why I used wordpress. 
+# Website for a SWEDISH RESTAURENTin Stockholm (Live and Active)
+This is a real website for a SWEDISH RESTAURENT. 
+This was my first project using Wordpress. 
+Owner of the restaurent wanted to do it in Wordpress- and that is why I used wordpress. 
+
+
+Please visit: https://marmikbistro.se/
